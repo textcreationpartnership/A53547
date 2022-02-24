@@ -1,0 +1,937 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dialling performed instrumentally by our hemisphere in plane projected and first fitted by Mr. William Oughtred and laid down according to his method formerly published for this very subject : together with twentie one several diagrams or schemes demonstratively shewing the reason and ground-work of all dialling as also how to know, distinguish and set down the hour-lines for both faces of all planes at one working / by a practitioner in the same art.</title>
+            <author>Oughtred, William, 1575-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53547</idno>
+            <idno type="STC">Wing O579A</idno>
+            <idno type="STC">ESTC R28755</idno>
+            <idno type="EEBO-CITATION">10750302</idno>
+            <idno type="OCLC">ocm 10750302</idno>
+            <idno type="VID">45665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dialling performed instrumentally by our hemisphere in plane projected and first fitted by Mr. William Oughtred and laid down according to his method formerly published for this very subject : together with twentie one several diagrams or schemes demonstratively shewing the reason and ground-work of all dialling as also how to know, distinguish and set down the hour-lines for both faces of all planes at one working / by a practitioner in the same art.</title>
+                  <author>Oughtred, William, 1575-1660.</author>
+               </titleStmt>
+               <extent>[2], 34 p., 20 leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and are to bee sold by William Hope,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The art of dialling.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dialing.</term>
+               <term>Time.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45665:1" rendition="simple:additions"/>
+            <pb facs="tcp:45665:1" rendition="simple:additions"/>
+            <p>DIALLING Performed Inſtrumentally by our HEMISPHERE in PLANE; Projected and firſt fitted by M<hi rend="sup">r</hi> 
+               <hi>William Oughtred,</hi> and laid down according to his Method formerly publiſhed for this very ſubject.</p>
+            <p>TOGETHER, With twentie one ſeveral <hi>Diagrams</hi> or <hi>Schemes,</hi> demonſtratively ſhewing the reaſon and ground-work of all Dialling:As alſo, how to know, diſtinguiſh and ſet down the Hour-lines for both Faces of all Planes at one working.</p>
+            <p>By a Practitioner in the ſame Art.</p>
+            <figure>
+               <head>PONDERIBVS SONITVM IACOBVS RIMEVS</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Du-Gard;</hi> and are to bee ſold by <hi>William Hope,</hi> at the ſign of the Anchor, on the North-ſide of the Roial Exchange. 1652.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45665:2"/>
+            <pb facs="tcp:45665:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ere I preſent unto your view a ſmall Tract of Di<g ref="char:EOLhyphen"/>alling performed by <hi>M<hi rend="sup">r</hi> Oughtred's</hi> projection of our Hemiſphere in Plane, according to his own me<g ref="char:EOLhyphen"/>thod in his book formerly publiſhed for this very ſub<g ref="char:EOLhyphen"/>ject, which by often practice &amp; trial I have found ſo uſeful and ſatisfactorie in all caſes whatſoëver (to this Art belonging) that I have fitted twentie ſeveral <hi>Diagrams</hi> or <hi>Schemes</hi> for ten ſe<g ref="char:EOLhyphen"/>veral propoſed <hi>Planes.</hi> The greater 10 ſhewing the drawing &amp; ſetting down the hour-lines Subſtyler and Poles height for every of them by the Hemiſphere or Inſtrument it ſelf. The other or leſſer 10 ſhew how to diſtinguiſh and ſet down the hour-lines which are in uſe for either face of any of theſe Planes.</p>
+            <p>In which enſuing diſcourſ I aſſume to my ſelf nothing but the mak<g ref="char:EOLhyphen"/>ing and faſhioning of the Diagrams, and a larger Explanation (demon<g ref="char:EOLhyphen"/>ſtratively) of what <hi>M<hi rend="sup">r</hi> Oughtred</hi> hath in brief ſet down, wherein I reſemble one lighting his Candle at another mans, which as it cannot de<g ref="char:EOLhyphen"/>miniſh or take away the luſter from his, ſo I muſt acknowledg it hath given a light unto mine.</p>
+            <p>Here is further to bee noted, for a great encouragment to the Practitioner, that if hee but barely know the rules of the Globe as Aequinoctial, Meridians, Paralels of declination, Poles, <hi>&amp;c.</hi> Hee ſhall moſt plainly ſee (as in a glaſs) what the fundamental reaſon of Diall<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:45665:3"/>
+is, neither can hee bee hoodwinkt (in the uſe of this Inſtrument) from the true and full knowledge thereof.</p>
+            <p>I have likewiſe for better conveniencie fitted or ordered the Dia<g ref="char:EOLhyphen"/>grams (to this tract belonging) to bee ſticht or bound up by themſelvs, that ſo you may laie open before you what Diagram you pleaſ, by the particular Explanation whereof according to its number in the Book you ſhall moſt eaſily learn the order of working, which I conceiv to bee a readier waie to the learner then to binde them together and ſo bee forc't to turn from page to page for everie letter. Laſtly theſe Dia<g ref="char:EOLhyphen"/>grams or Schemes (beeing made onely for Demonſtration-ſake) are not ſo large as to expect every thing to bee exactly performed according to Arithmetical Calculation; yet I preſume no man ſhall finde ſuch difference from the truth as may make the leaſt ſenſible error in Time, for had I made them of a greater circumference the work would have been ſo much the truer.</p>
+            <p>Which as I have found both uſeful and ſatisfactorie to my ſelf, ſo if it prove but acceptable to thee, I have my deſire.</p>
+            <closer>
+               <signed>R. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:45665:3"/>
+            <head>A Definition of certain Terms or VVords hereafter uſed for the better underſtanding of the enſuing Diſcourſ.</head>
+            <div type="section">
+               <head>A Plane.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Y a <hi>Plane</hi> is meant any thing which is flat or ſmooth, bee it Wall, board, Stone, or any thing elſ whereon lines may bee conveniently drawn; which muſt bee conceived to have length and bredth, but no thickneſs; that ſo when the Sun forſake's the one face or ſide of any Plane, it muſt preſently appear upon the other:for every Plane hath two faces or ſides, whereon ſom hour-lines may bee drawn for good uſe; Except the Horizontal, which can have but one.</p>
+               <p>Again, everie Plane muſt cut or divide the Globe of the Univerſ into two equal halvs:As the Horizontal Plane divide's the upper Hemiſphere which wee ſee, from the lower which wee ſee not:Or the Equinoctial Plane may bee ſaid to divide the Northern half of the Globe from the Southern half thereof, or the Meridian Plane; to divide the Eaſtern half from the Weſtern half thereof:and ſo do all other Planes whatſoever, according to their ſeveral ſituations.</p>
+            </div>
+            <div type="section">
+               <head>The Horizontal line.</head>
+               <p>THe Horizontal line, is a line alwaies level, or paralel to the Ho<g ref="char:EOLhyphen"/>rizon; beeing indeed a level-line.</p>
+            </div>
+            <div type="section">
+               <pb n="2" facs="tcp:45665:4"/>
+               <head>A Perpendicular line.</head>
+               <p>A Perpendicular line is a line croſſing the Horizontal, or any other line at right angles, but moſt proper, that line which croſſeth the Horizontal at right angles, pointing out the <hi>Zenith</hi> and <hi>Na<g ref="char:EOLhyphen"/>der.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Declination.</head>
+               <p>THe Declination of a Plane is, what a Plane varie's or differ's from beholding the due North or South, either to the Eaſt or Weſtwards.</p>
+            </div>
+            <div type="section">
+               <head>Inclination.</head>
+               <p>THe Inclination of a Plane is the quantitie of an Arch in degrees and minutes which any plane is ſeated, or lifted up above the le<g ref="char:EOLhyphen"/>vel of the Horizontal line.</p>
+            </div>
+            <div type="section">
+               <head>Pole of the world.</head>
+               <p>THe Pole of the world is repreſented in the Inſtrument by the letter <hi>P,</hi> through which all the Meridians paſs.</p>
+            </div>
+            <div type="section">
+               <head>Pole of the Plane.</head>
+               <p>THe Pole of the Plane muſt ever bee 90:00″ from the Plane it ſelf, even as the Pole of the world is 90:00″ from the Equator.</p>
+            </div>
+            <div type="section">
+               <head>Pole of the Meridian of the Plane.</head>
+               <p>SO muſt alſo the Pole of the Meridian of the Plane bee 90:00″ from the Meridian it ſelf; which will bee far better underſtood in every of the ſeveral Diagrams following.</p>
+            </div>
+            <div type="section">
+               <head>Meridian or Hour-circle.</head>
+               <p>BY a Meridian is meant any of the Hour-circles in the Inſtrument, whereof there are but 12 drawn, thereby pointing out the 24 hours, beeing 15:00″ each from other, which is an hour of time, and are ſomtimes termed Meridians, and ſomtimes Hour-circles, as occaſion ſhall bee given.</p>
+            </div>
+            <div type="section">
+               <pb n="3" facs="tcp:45665:4"/>
+               <head>The proper Meridian of the Plane.</head>
+               <p>THe proper Meridian of the Plane is that very Meridian, either real in the Inſtrument, or prickt down, which paſſeth through the Pole of the Plane.</p>
+            </div>
+            <div type="section">
+               <head>Meridian of the place.</head>
+               <p>THe Meridian of the Place is that Meridian in this our Horizon, which make's (the Sun beeing thereupon) Mid-daie and Mid<g ref="char:EOLhyphen"/>night with us.</p>
+            </div>
+            <div type="section">
+               <head>The Prime Vertical Circle.</head>
+               <p>THe Prime Vertical Circle is the Circle or Azumith which paſ<g ref="char:EOLhyphen"/>ſeth through the Zenith and the points of Eaſt and Weſt in the Inſtrument, repreſented by the line <hi>W z E.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Scale.</head>
+               <p>THe Scale of the Inſtrument is the Radius or Semidiameter there<g ref="char:EOLhyphen"/>of, <hi>viz. z S</hi> beeing divided into 90:00 unequal degrees.</p>
+            </div>
+            <div type="section">
+               <head>The limb of the Inſtrument.</head>
+               <p>THe limb of the Inſtrument is often named, by which you are to underſtand is meant the innermoſt Circle of all in the Inſtrument, which is in every of the Diagrams or Schemes divided into 360:00″.</p>
+            </div>
+            <div type="section">
+               <head>An Hour-line.</head>
+               <p>BY an Hour-line is meant any ſtreight line drawn from the Pole of the Plane, through the Interſection or croſſing of any hour<g ref="char:EOLhyphen"/>circle with the Plane unto the limb of the Inſtrument.</p>
+            </div>
+            <div type="section">
+               <head>The Subſtiler line.</head>
+               <p>THe Subſtiler line is likewiſe a ſtreight line drawn from the Pole of the Plane, through the interſection or croſſing of the proper Meridian of the Plane, with the Plane it ſelf, unto the limb of the In<g ref="char:EOLhyphen"/>ſtrument, over which line the Stile or Gnomon is alwaies plac'd.</p>
+            </div>
+            <div type="section">
+               <head>Diagram.</head>
+               <p>BY the word Diagram is meant a Geometrical figure, whereof for every propoſed plane (in the enſuing Tract) there are two of the ſame number from <hi>n<hi rend="sup">o</hi> A</hi> to <hi>ndeg; K,</hi> (both included).</p>
+               <p>
+                  <pb facs="tcp:45665:5"/>
+                  <figure>
+                     <figDesc>hemisphere in plane for the latitude 51:30″</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="5" facs="tcp:45665:5"/>
+               <head>An explanation of the Inſtrument.</head>
+               <p>THis Inſtrument is our Hemiſphere in Plane for the Latitude 51:30 firſt projected by M<hi rend="sup">r</hi> 
+                  <hi>William Oughtred,</hi> and by him (as alſo by M<hi rend="sup">r</hi> 
+                  <hi>Gunter</hi>) a Method is ſet down for the making thereof, wherein the Circle</p>
+               <list>
+                  <item>
+                     <hi>N E S W</hi> is the Horizontal Circle of the Plane.</item>
+                  <item>
+                     <hi>N z S</hi> the Meridian, or North and South line.</item>
+                  <item>
+                     <hi>W z E</hi> the Prime Vertical Circle, or Eaſt and Weſt line.</item>
+                  <item>
+                     <hi>z</hi> repreſent's the Zenith, and ſomtimes the center of the Inſtru<g ref="char:EOLhyphen"/>ment.</item>
+                  <item>
+                     <hi>P</hi> the Pole of the world.</item>
+                  <item>
+                     <hi>W ♈ E</hi> the Equator.</item>
+                  <item>The Arch ♋ repreſent's the Summer Tropick.</item>
+                  <item>The Arch ♑ repreſent's the Winter Tropick.</item>
+                  <item>
+                     <hi>z S</hi> the Semidiameter is divided into 90:00″ unequal degrees.</item>
+               </list>
+               <p>Next there are drawn through the Pole in the the Inſtrumen <hi>P</hi> 12 Meridians which divide the whole face of the Plane into 24 parts, which are 15:00″ each from other (beeing an hour of time) there<g ref="char:EOLhyphen"/>fore they are taken and deemed for hour-circles alſo, and figured ac<g ref="char:EOLhyphen"/>cordingly, which will bee ſufficient for our preſent matter. Theſe ſeveral Diagrams following, beeing made onely for demonſtration<g ref="char:EOLhyphen"/>ſake; But the Inſtrument would bee much more uſeful and exact if it were larger, and every Meridian, or every 5<hi rend="sup">th</hi> Meridian of the 360:00″ were therein drawn, as hereafter will appear.</p>
+               <p>Further you are to note, that this Inſtrument is moſt proper for all dialls with centers, in which the hour-lines, ſubſtiler and ſtile do meet, whereof their natures, qualities and number follow:</p>
+            </div>
+            <div type="section">
+               <head>Firſt, The Horizontal Plane.</head>
+               <p>THe Inſtrument it ſelf is an Horizontal diall:for if ſtreight lines bee drawn from the center <hi>z</hi> to the ſeveral interſections of the hour-circles with the limb (which repreſent's the Horizontal Plane) and in <hi>z</hi> erect a Stile or Gnomon 51:30″ above the Plane, equal to <hi>N P</hi> right over the Meridian <hi>z P n</hi> It ſhall bee a perfect Horizontal Diall.</p>
+            </div>
+            <div type="section">
+               <pb n="6" facs="tcp:45665:6"/>
+               <head>An upright Plane fully beholding the North or South.</head>
+               <p>THis Plane is likewiſe repreſented by the line <hi>W z E</hi> in the Inſtru<g ref="char:EOLhyphen"/>ment, beeing the Prime Vertical Circle, or Eaſt and Weſt line thereof, beeing right to the Meridian <hi>N z S,</hi> therefore to the South<g ref="char:EOLhyphen"/>wards a due South face, and to the Northwards a due North face.</p>
+            </div>
+            <div type="section">
+               <head>The Vertical Inclining Plane.</head>
+               <p>ALL Planes which are not level to, or with the Horizon, nor yet perpendicular thereto, but lie ſloping betwixt the Zenith and Horizon, are called Inclining Planes:And if their Horizontal lines ſhall bee paralel to the Prime Vertical <hi>W z E,</hi> that is, fully beholding the North or South, they are then called Vertical Inclining Planes:Theſe Planes may Incline either to the North-part of the Horizon, or to the South; and each Plane hath two faces whereon ſom hour<g ref="char:EOLhyphen"/>lines may bee drawn for uſe; The upper face lying open to the Ze<g ref="char:EOLhyphen"/>nith, and the lower to the Nader, wherein you are to conſider the height of the Pole above the Plane by comparing the Inclination of the Plane to the Horizon, with the Latitude of the place:and will bee better underſtood by the demonſtration following, wherein <hi>A c A</hi> repreſent the Horizontal line.</p>
+               <list>
+                  <item>
+                     <hi>z c n</hi> the Perpendicular line.</item>
+                  <item>
+                     <hi>N S</hi> the two Poles of the world, whereof <hi>N</hi> is elevated 51:30″ above <hi>A</hi> according to our Latitude.</item>
+                  <item>Ae <hi>c</hi> Ae the Equinoctial line or Plane.</item>
+               </list>
+               <p>The other lines are ſeveral Planes propoſed according to their ſe<g ref="char:EOLhyphen"/>veral Inclinations to the Horizon.</p>
+               <p>I will firſt propoſe a Plane whoſe Inclination is 20:00″ in the North part of the Horizon, <hi>viz.</hi> the line <hi>B c B;</hi> now hereby you may plainly perceiv that the North-pole <hi>N</hi> is elevated above the upper face of this Plane but 31:30″; for if I take the angle of the Plane's Inclination <hi>A c B</hi> 20:00″ out of <hi>A c N</hi> 51:30″, there will reſt the angle <hi>B c N</hi> 31:30″ for the North-Pole's height above the upper face, and therefore the South-pole <hi>S</hi> muſt bee elevated ſo much above the lower face of the ſaid Plane as the angle <hi>B c S</hi> ſhew's, beeing the ſame with the angle <hi>B c N.</hi>
+               </p>
+               <p>If the Plane propoſed were <hi>D c D,</hi> Northerly likewiſe, you may
+<pb n="7" facs="tcp:45665:6"/>
+perceiv by the ſituation of the Plane that the North-pole <hi>N</hi> will bee elevated above the lower face of this plane 20:00″; for if I take the angle <hi>A c N</hi> 51:30″ out of <hi>A c D</hi> 71:30″ there will reſt the angle <hi>N c D</hi> 20:00″ for the North-pole's height above the lower face, and and therefore ſo much for the South-pole above the upper face there<g ref="char:EOLhyphen"/>of as the angle <hi>D c S</hi> ſhew's.</p>
+               <figure/>
+               <p>Again, if the Plane propoſed were <hi>F c F</hi> 18:30 Inclination in the Southern part of the Horizon. Here, be<g ref="char:EOLhyphen"/>cauſ <hi>F</hi> in the South<g ref="char:EOLhyphen"/>part of the Horizon is lifted up above the Horizontal line 18:30″ according to the In<g ref="char:EOLhyphen"/>clination thereof; ther<g ref="char:EOLhyphen"/>fore <hi>F</hi> beeing the o<g ref="char:EOLhyphen"/>ther end of the Plane, muſt bee ſo much de<g ref="char:EOLhyphen"/>preſt under it, ſo that if I add the angle <hi>AcF</hi> 18:30″ to the angle <hi>A c N</hi> 51:30″, I ſhall have the angle <hi>F c N</hi> 70:00″ for the North<g ref="char:EOLhyphen"/>pole's height above the upper face, and ſo much muſt the South-pole's height bee above the lower face of this Plane, as the angles <hi>F c N</hi> and <hi>F c S</hi> ſhew.</p>
+               <p>If the Plane propoſed were the line <hi>N c S,</hi> it muſt of neceſſitie bee a Polar Plane, becauſ it is the ſame with the Axis of the world, ſo that neither Pole will bee elevated above this Plane.</p>
+               <p>If the Plane propoſed were the line Ae <hi>c</hi> Ae it muſt needs bee an Equinoctial Plane, and ſo the Poles will bee elevated 90:00″ above either face of the ſaid Plane.</p>
+            </div>
+            <div type="section">
+               <pb n="8" facs="tcp:45665:7"/>
+               <head>The upright declining Plane.</head>
+               <p>THeſe Planes, becauſ they do not directly behold the South or North, nor yet the Eaſt or Weſt fully, but are Planes which lie betwixt both, (and upright withall) are called upright declining Planes, which have likewiſe two faces whereon ſom hour-lines for uſe may bee drawn, the one face lying open to the Southwards, the other face to the Northwards.</p>
+            </div>
+            <div type="section">
+               <head>The Declining Inclining Plane.</head>
+               <p>IF a Plane ſhall Decline anie waie from the due North or South ei<g ref="char:EOLhyphen"/>ther to the Eaſt or Weſtwards, and is not withall an upright plane, but is ſuch a plane as with its Declination inclineth to the Horizon, it is then called a Declining Inclining Plane.</p>
+            </div>
+            <div type="section">
+               <head>The Meridian Plane.</head>
+               <p>THoſe Planes whoſe Horizontal lines are the ſame, or parallel to the Meridian, and withall are upright Planes, are generally called Meridian Planes.</p>
+            </div>
+            <div type="section">
+               <head>The Meridian Inclining Plane.</head>
+               <p>BUt thoſe Planes whoſe Horizontal lines are the ſame, or parallel to the Meridian, and withall the Plane ſhall Incline to the Hori<g ref="char:EOLhyphen"/>zon, then it is called a Meridian Inclining Plane.</p>
+            </div>
+            <div type="section">
+               <head>The Polar Plane.</head>
+               <p>THoſe Planes wherein a line may bee drawn paralel to the Axis of the world are called Polar Planes (although with ſom diſtincti<g ref="char:EOLhyphen"/>on) becauſ that line pointeth unto the two Poles; and theſe Planes are alwaies paralel to ſom one of the hour-circles in the Inſtrument; For the direct Polar Plane is paralel to the hour-circle of 6, and the Meridian plane is paralel to the hour-circle of 12.</p>
+            </div>
+            <div type="section">
+               <head>The Polar declining Plane.</head>
+               <p>BUt the Polar declining Plane is a Plane which is paralel to ſom one of the hour-circles in the Inſtrument betwixt 12 and 6, becauſ of its Inclination to the Pole, and Declination from the
+<pb n="9" facs="tcp:45665:7"/>
+prime Vertical, or, Eaſt and Weſt line in the Inſtrument.</p>
+               <p>Next the Subſtiler and hour-lines in a Meridian Plane make an Arch with the Horizontal line of the plane, equal to the Latitude of the place:In direct Polar planes they make an Arch of 90:00″, but in Polar declining planes they make an Arch with their Horizontal line of their planes more then the latitude of the place, and leſs then 90:00″.</p>
+               <p>Again, in direct Polar planes the Subſtiler line is the ſame with the Meridian or 12 a clock line:In a Meridian plane it is the ſame with the hour of 6, but in a Polar declining plane it is betwixt 12 and 6, according to the inclination or diſtance of the proper Meri<g ref="char:EOLhyphen"/>dian of the plane with or from the Meridian of the place.</p>
+               <p>I ſhould now proceed to the ſetting down thoſe ſeveral planes up<g ref="char:EOLhyphen"/>on the Inſtrument in their order; but becauſ ſom of them are plain regular dials, falling under every man's apprehenſion, and ſom com<g ref="char:EOLhyphen"/>prehended in what ſhall bee ſpoken of the others, I will omit theſe ſeveral following.</p>
+               <p>The firſt therefore which I ſhall omit or paſs over, is the Hori<g ref="char:EOLhyphen"/>zontal plane, whereof the Inſtrument itſelf is a perfect pattern, as in <hi>folio</hi> 5 is declared.</p>
+               <p>The next following is the due South and North plane, which is likewiſe repreſented in the Inſtrument by the line <hi>W z E,</hi> and is fully comprehended and taught in any of the Diagrams <hi>no</hi> 
+                  <hi>A B</hi> or <hi>C,</hi> of the upright declining planes.</p>
+               <p>The next following is the Vertical inclining plane, which is like<g ref="char:EOLhyphen"/>wiſe ſufficiently explained in any of the Diagrams of number <hi>D E F G,</hi> of the declining inclining planes, there beeing but the ſame me<g ref="char:EOLhyphen"/>thod and order of working for the one as for the other.</p>
+               <p>The laſt which I paſs over are the direct Polar and Equinoctial planes, beeing very plain regular Dialls, and indeed, not ſo proper for the Inſtrument as aforeſaid.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="10" facs="tcp:45665:8"/>
+            <head>How to ſet down upon the Inſtrument theſe ſeveral Planes following, <hi>viz.</hi>
+            </head>
+            <div type="section">
+               <head>Firſt, The upright declining Plane.</head>
+               <p>THe firſt therefore which I will begin withall is, how to ſet down upon the Inſtrument any upright, or upright declining Plane:Firſt you muſt bee very careful which waie your declination tend's; for if you miſtake herein, your work muſt bee extreme falſ.</p>
+               <p>This upright declining Plane is propoſed to decline 30:00″ to the Eaſtwards of the South; therefore I reckon in the limb of the In<g ref="char:EOLhyphen"/>ſtrument 30:00″ to the Northwards of <hi>E,</hi> and 30:00 to the South<g ref="char:EOLhyphen"/>wards of <hi>W,</hi> in the greater Diagram, number <hi>A,</hi> and ſo draw the line <hi>A z A</hi> for the Horizontal line of the Plane. Next I croſs it at right angles with the line <hi>C z E</hi> for the perpendicular line thereof; for you muſt know that the Horizontal line of the Plane, and the Perpendicular line thereto, in all upright planes muſt bee the two firſt lines:and in all incliners the Horizontal line muſt bee the firſt, and a line croſſing the Horizontal at right angles muſt bee the ſecond (which upon the matter is all one) before you can proceed any fur<g ref="char:EOLhyphen"/>ther.</p>
+               <p>This beeing don, you perceiv the Southern face of this plane to behold the South-eaſt quarter of the Inſtrument, and the Northern face thereof to behold the North-weſt quarter of the Inſtrument, which is according to the declination propoſed.</p>
+            </div>
+            <div type="section">
+               <head>How to ſet upon the Inſtrument any Vertical Incliner, or any Declining Inclining Plane.</head>
+               <p>FOr all ſorts of Incliners you muſt have recourſ unto the Semidi<g ref="char:EOLhyphen"/>ameter or graduated ſcale in the Inſtrument <hi>z S.</hi>
+               </p>
+               <p>Now this Plane Decline 24:20″ Weſterly from <hi>S.</hi> is propoſed to Incline 36:00″ Northerly.</p>
+               <p>Firſt, becauſ this plane decline's to the Southweſtwarde, therefore in the greater Diagram number <hi>D</hi> I reckon from <hi>W</hi> in the limb 24:20″ Northerly, and ſo much from <hi>E</hi> Southerlie, and ſo I draw the Horizontal line of the Plane <hi>A z A,</hi> which I croſs at right angles with the line <hi>B z B.</hi>
+               </p>
+               <p>
+                  <pb n="11" facs="tcp:45665:8"/>Next, I conſider the Inclination propoſed 36:00″ northerlie, which I take out of the Scale from <hi>S</hi> to <hi>e</hi> and put it over in the northern part of the line <hi>B z B</hi> from <hi>B</hi> to <hi>T,</hi> or, (which is much the better waie) I take the complement to 36:00″ beeing 54:00″ out of the Scale from <hi>z</hi> to <hi>e</hi> and put it over in the Northern part of the line from <hi>z</hi> to <hi>T,</hi> becauſ the Inclination propoſed is northerlie, of which you muſt have aſmuch care as to the Declination; which point <hi>T</hi> will bee the higheſt point in this plane, beeing neareſt the Zenith <hi>z.</hi> Now from the two ends of the Horizontal line <hi>A</hi> and <hi>A,</hi> and through this point <hi>T;</hi> having found a center, I draw the Arch of a circle <hi>A T A,</hi> which Arch is the Declining Inclining plane propoſed:And theſe two foregoing examples will bee ſufficient for ſetting down or pla<g ref="char:EOLhyphen"/>cing upon the Inſtrument all Planes whatſoëver.</p>
+            </div>
+            <div type="section">
+               <head>To finde the place of the Pole of every upright Plane.</head>
+               <p>NOw after your Plane is juſtly ſet upon your Inſtrument with its horizontal and perpendicular lines, the next thing requiſite to know, is the place of the Pole of your Plane, which muſt bee care<g ref="char:EOLhyphen"/>fully placed; for from the Pole of every Plane (having a center) the Subſtyler and all the hour-lines muſt be drawn to the limb of the Inſtrument.</p>
+               <p>You are likewiſe to know, that the Pole of every Plane is alwaies 90:00″ from the Plane it ſelf, and ever, in all upright planes, at that end of the perpendicular line in the limb of the Inſtrument, to which the face of your Plane is oppoſite, for which you intend your Diall, becauſ it is the Semidiameter, and therefore the Radius or Sine of 90:00″ which is general.</p>
+               <p>Thus in the greater Diagram <hi>no</hi> 
+                  <hi>A</hi> the Southeaſterlie face of the plane being propoſed, therefore at the Southern end of the perpendi<g ref="char:EOLhyphen"/>cular line, <hi>viz.</hi> at <hi>C</hi> in the limb is the place of the Pole of that face of the plane. If the Northweſterlie face (which is the contrarie face) were intended for principal, then the Pole thereof would bee at <hi>E</hi> in the Northern end thereof.</p>
+            </div>
+            <div type="section">
+               <pb n="12" facs="tcp:45665:9"/>
+               <head>To finde the place of the Pole of every Inclining, or of every Declining Inclining Plane.</head>
+               <p>IF the Plane bee a Vertical Incliner, or a Declining inclining Plane, as in the greater Diagram <hi>no</hi> 
+                  <hi>D</hi> is propoſed, then the Pole of the Plane muſt bee alwaies in the line which croſſeth the Horizontal at right angles, betwixt the limb and the center <hi>z,</hi> ſo that you know <hi>z T</hi> beeing the complement of Inclination 54:00″ if I take 36:00″ out of the Scale from <hi>z</hi> downwards, it will extend to <hi>d,</hi> which bee<g ref="char:EOLhyphen"/>ing put over in the ſame line <hi>B z B</hi> from <hi>z,</hi> it will reach unto <hi>m,</hi> which muſt bee the place of the Pole of this Plane, becauſ <hi>z T</hi> is 54:00″ of the Scale from <hi>z,</hi> and <hi>z m</hi> is 36:00″ from <hi>z,</hi> which make's the line <hi>T z m</hi> to bee 90:00″ betwixt the Plane at <hi>T,</hi> and the Pole thereof at <hi>m;</hi> and this is general for all Planes of this nature.</p>
+            </div>
+            <div type="section">
+               <head>To draw the Hour-lines upon all Planes with Centers.</head>
+               <p>YOu are to mark diligently where the Hour-circles in the Inſtru<g ref="char:EOLhyphen"/>ment do croſs or cut your Plane; for if a ſtreight Ruler bee laid to the Pole of the Plane, and to thoſe ſeveral interſections or croſ<g ref="char:EOLhyphen"/>ſings of the Hour-circles, with the Plane and ſtreight lines drawn from thoſe ſeveral interſections or croſſings to the limb of the In<g ref="char:EOLhyphen"/>ſtrument, thoſe ſtreight lines ſhall bee the Hour-lines for your Plane, and by reckoning the degrees in the limb of the Inſtrument you ſhall know, how much every hour-line is diſtant either from the Horizontal line of the Plane, or from the Perpendicular line there<g ref="char:EOLhyphen"/>of, or from the Subſtiler, or any one hour-line from another; by which you may transfer the ſame lines upon your Plane by a table made thereby as you pleaſ.</p>
+            </div>
+            <div type="section">
+               <head>To draw the Subſtiler line upon all Planes with Centers.</head>
+               <p>YOu are to mark diligently where the Pole of your Plane fall's to bee either upon an hour-circle, or meridian, or betwixt any two; for if the Pole of the Plane fall upon a Meridian, as in the Diagram number <hi>D</hi> it doth fall juſt upon the Meridian or hour-circles of one
+<pb n="13" facs="tcp:45665:9"/>
+in the point <hi>m,</hi> then this hour-circle of one muſt bee the proper Meridian of the Plane, becauſ it paſſeth through the Pole of the Plane at <hi>m.</hi> Now if you laie a ruler to the Pole of the Plane <hi>m,</hi> and to the interſection or croſſing of this Meridian with the plane it ſelf, in the point <hi>L,</hi> and draw the ſtreight line <hi>m L K</hi> to the limb of the Inſtrument, this line ſhall bee the Subſtiler line.</p>
+               <p>Furthermore, becauſ the proper Meridian of the Plane, and the hour-circle of one, in this Diagram <hi>no</hi> 
+                  <hi>D,</hi> bee one and the ſame, therefore the Subſtiler and hour-line of one, muſt bee one and the ſame line alſo, and ſerve for both.</p>
+               <p>But if the Pole of the Plane fall betwixt two meridians or hour<g ref="char:EOLhyphen"/>circles in the Inſtrument, as in the Diagram <hi>no</hi> 
+                  <hi>A</hi> it doth, <hi>viz.</hi> be<g ref="char:EOLhyphen"/>twixt the hour circles of 9 and 10 in the Inſtrument, at the point <hi>C:</hi> in the limb (becauſ it is an upright Plane) then for better demon<g ref="char:EOLhyphen"/>ſtration ſake, I will in the Diagrams following, (where need ſhall re<g ref="char:EOLhyphen"/>quire) make or prick one down, which in this Diagram <hi>no</hi> 
+                  <hi>A</hi> is <hi>C L P E,</hi> which is the proper meridian of this Plane, becauſ it paſ<g ref="char:EOLhyphen"/>ſeth through <hi>C</hi> the Pole thereof. Now laying a ruler to the Pole <hi>C,</hi> and to the Interſection of this proper meridian with the Plane it ſelf in the point <hi>L,</hi> and draw the line <hi>C L K,</hi> it muſt bee the Subſtiler line for this Plane.</p>
+            </div>
+            <div type="section">
+               <head>To finde the height of the Pole above all Planes having Centers.</head>
+               <p>THe next and laſt thing to know, is, how much the Pole is eleva<g ref="char:EOLhyphen"/>ted above your Plane:Now the height of the Pole above any Plane, is the meaſure of the arch of the proper meridian of the Plane, which is intercepted or included betwixt the Pole in the Inſtrument and the Plane:To know the quantitie of which arch in degrees and minutes, firſt reckon in the limb of the Inſtrument, from either end of the proper meridian 90:00″, mark where this acount end's, and from thence through the center <hi>z</hi> draw an obſcure, or occult line to the oppoſite point in the limb, then take the diſtance betwixt the proper meridian and the center <hi>z</hi> in the occult line, and ſee how ma<g ref="char:EOLhyphen"/>ny degrees and minutes it is in the Scale from <hi>z</hi> downward; for the complement thereof beeing taken out of the Scale from <hi>z,</hi> and ex<g ref="char:EOLhyphen"/>tended in the occult line on the other ſide the center, ſhall point out
+<pb n="14" facs="tcp:45665:10"/>
+the pole of this proper meridian; which had, laie a ruler to the Pole of this proper meridian, and to the Pole in the Inſtrument <hi>P,</hi> and make a mark in the limb where the ruler cut's. Again lay the ruler to the Poles of the proper meridian, and to the interſection or croſ<g ref="char:EOLhyphen"/>ſing of this meridian with the Plane, and make a ſecond mark in the limb where the ruler cut's; for the degrees and minutes reckoned in the limb betwixt theſe two marks, will bee the exact meaſure of the arch of the proper meridian of the plane, which is intercepted or in<g ref="char:EOLhyphen"/>cluded betwixt the Pole and the Plane, which is the height of the Pole above all planes having centers.</p>
+               <p>Thus in the Diagram <hi>no</hi> 
+                  <hi>A,</hi> from either end of the proper meridi<g ref="char:EOLhyphen"/>an of the Plane, <hi>viz.</hi> from <hi>E</hi> or <hi>C</hi> in the limb, I reckon 90:00″ which end's at <hi>A</hi> or <hi>A,</hi> beeing in this Diagram the ends of the horizantal line, and therefore the ſame line <hi>A z A</hi> ſerv's for the occult line be<g ref="char:EOLhyphen"/>fore ſpoken of (and will bee alwaies ſo in all upright planes). Next I finde the diſtance betwixt the proper meridian and the center <hi>z, viz. z L</hi> to bee in the Scale 21:00″; ſo that taking 69:00″ the comple<g ref="char:EOLhyphen"/>ment thereof out of the Scale from <hi>z</hi> downwards, and extending it in the occult line on the other ſide the center, it will point out the place of the Pole of this proper meridian to bee at <hi>h.</hi>
+               </p>
+               <p>Now laying a ruler to the Pole of this proper meridian at <hi>h,</hi> and to the Pole in the Inſtrument <hi>P</hi> make a mark in the limb where the ruler cut's, <hi>viz. n;</hi> or (which is all one) draw the obſcure line <hi>h P n;</hi> then keeping the ruler at <hi>h,</hi> turn it to the point <hi>L,</hi> where the proper Meridian cut's the Plane, and make the mark <hi>o</hi> in the limb, or the line <hi>h L o,</hi> and you ſhall finde the degrees and minutes betwixt <hi>n</hi> and <hi>o</hi> in the limb to bee 32:40″, which is the meaſure of the arch of the proper meridian betwixt <hi>P</hi> and <hi>L,</hi> which is the North-pole's height above the Northern face of the Plane, and therefore the South-pole muſt bee elevated ſo much above the Southern face thereof.</p>
+               <p>Again, in the Diagram <hi>no</hi> 
+                  <hi>D,</hi> the proper meridian of the Plane which paſſeth through the Pole of the Plane, is the meridian or hour-circle of one, <hi>viz q m i L q:</hi> from <hi>q</hi> therefore, either end of this hour-circle, which is (now the proper meridian of the Plane) I rec<g ref="char:EOLhyphen"/>kon 90:00 in the limb, which end's at <hi>D,</hi> from which point <hi>D</hi> through the center <hi>z</hi> I draw the occult line <hi>D z D;</hi> Next I finde the diſtance betwixt the center <hi>z</hi> and the proper meridian in the obſcure
+<pb n="15" facs="tcp:45665:10"/>
+line to bee <hi>z i</hi> 9:00″ of the Scale; therefore taking the complement thereof 81:00″ out of the Scale from <hi>z</hi> downwards, it will extend on the other ſide the center, in the occult line from <hi>z</hi> to <hi>h,</hi> which will bee the place of the Pole of this proper meridian; now laying a ruler to <hi>h</hi> the Pole of the proper meridian, and to <hi>P</hi> the Pole in the Inſtrument, draw the obſcure line <hi>h P n,</hi> then laying the ruler to <hi>h,</hi> and to the point <hi>L,</hi> where the proper meridian croſſeth the Plane, and draw the line <hi>h L o,</hi> and you ſhall finde the degrees and minutes be<g ref="char:EOLhyphen"/>twixt <hi>n</hi> and <hi>o</hi> in the limb to bee 17:00″, which is the meaſure of the arch of the proper meridian betwixt <hi>P</hi> and <hi>L,</hi> which is the North<g ref="char:EOLhyphen"/>pole's height above the upper face of this declining inclining Plane, and therefore the South-pole muſt bee elevated ſo much above the lower face thereof.</p>
+            </div>
+            <div type="section">
+               <head>To place the Stile or Gnomon.</head>
+               <p>NOw the height of the Pole above the Plane beeing found for right placing the Stile or Gnomon you muſt know it muſt ever point directly to the pole, which is elevated above that face of your plane for which you intend your Diall.</p>
+            </div>
+            <div type="section">
+               <head>To know what hour-lines muſt bee in uſe for either face of any Plane whatſoever.</head>
+               <p>BEcauſ you ſhall not incumber nor peſter your Diall with uſeleſs or unneceſſarie hour-lines, you ſhall moſt plainly perceiv, after your Plane is truly plac'd upon your Inſtrument, what hour-lines will bee in uſe for either face thereof, onely by obſerving the inter<g ref="char:EOLhyphen"/>ſections, or croſſings of the Tropiques and Parallels of the Sun's De<g ref="char:EOLhyphen"/>clination with the Plane, which is very plain and of excellent uſe.</p>
+               <p>For example in the Diagram <hi>no</hi> 
+                  <hi>A<g ref="char:punc">▪</g>
+                  </hi> you perceiv the Southern face of the Plane to be <hi>A C A</hi> in the Inſtrument, and the Northern face there<g ref="char:EOLhyphen"/>of to bee <hi>A E A;</hi> now imagining the Sun's diurnal arch to bee in the Summer Tropique, you may perceiv that from its riſing, which is about ¼ before 4 till it com to the point <hi>d,</hi> where the Tropique croſ<g ref="char:EOLhyphen"/>ſeth the plane; it will ſhine upon the Northern face thereof, which is until about 40″ paſt 4 in the morn, from this point <hi>d:</hi> it immedi<g ref="char:EOLhyphen"/>ately
+<pb n="16" facs="tcp:45665:11"/>
+appear's upon the Southern face thereof, and ſo continue's till the ſame Tropique cut's the Plane again in the point <hi>c,</hi> which you ſee will bee amongſt the hour-circles about ½ an hour paſt 2, and then forſaking the Southern face, it appear's again upon the Northern face, and ſo continue's till Sun-ſet, which is about ¼ paſt 8 in the Evening.</p>
+               <p>So that for the Northern face, the hour-lines in uſe will bee firſt 4 in the morn, and then from 3 to 8, (both included); And for the Southern face, all the hour-lines from 5 in the morn, to 4 afternoon, (both included); becauſ you ſee that when the Sun is in the parallel of 20:00″ South Declination, the Sun will ſhine upon that Southern face from its riſing till its ſetting, beeing about a little paſt 4 after<g ref="char:EOLhyphen"/>noon, becauſ that parallel 8, 20, 4, croſſeth not the plane at all.</p>
+               <p>Again, in Diagram <hi>n<hi rend="sup">o</hi> D,</hi> the Sun beeing in the Summer Tropique, it will ſhine upon the Northern or lower face of that plane, from its riſing to the croſſing of that Tropique, with the Plane in the point <hi>a,</hi> which is about 25 paſt 6 in the morn, from thence in the ſame mo<g ref="char:EOLhyphen"/>ment of time, it will appear upon the Southern or upper face there<g ref="char:EOLhyphen"/>of, and continue's thereupon till it croſs the Plane again in the point <hi>b.</hi> which is about 30″ paſt 7 in in the Evening, and then departing from that face, ſhine's upon the Northern face of the ſaid Plane till Sun-ſet; But when the Sun is in 10:00″ South Declination, <hi>viz.</hi> the parallel <hi>g, i, 10, f,</hi> it will ſhine upon the Northern face from its riſing at <hi>g,</hi> which is a little before 7 in the morn, till it croſs the Plane in the point <hi>i,</hi> which is about ¼ paſt 7 in the morn; So that for the Northern, or lower face of the Plane, the hour-lines in uſe will bee from 4 to 7 in the morn, (both included) and onely 8 in the evening; and for the Southern or upper face, all the hour-lines from 7 in the morn to 7 at evening, both included.</p>
+               <p>Further you muſt know, that by the Inſtrument you ſhall alwaies have 12 of the 24 hour-lines pointed out unto you by the interſecti<g ref="char:EOLhyphen"/>ons or croſſings of the hour-circles with the Plane.</p>
+               <p>It will fall out in all Southerlie Inclining, or in Southerlie Incli<g ref="char:EOLhyphen"/>ning Declining Planes, that although the Northern face of a Plane bee the face propoſed to finde out the hour-lines and Subſtiler for, yet in theſe planes the hour-lines will bee drawn in and by the In<g ref="char:EOLhyphen"/>ſtrument; for the lower or Southerlie face thereof, which is the
+<pb n="17" facs="tcp:45665:11"/>
+contrarie face to the intended, which you ſhall fully underſtand in the Diagrams <hi>n<hi rend="sup">o</hi> E</hi> &amp; <hi>G,</hi> following.</p>
+               <p>You are to note, that the Tables following for every Diagram, are the ſeveral diſtances in degrees and minutes taken out of the limb of the Inſtrument, which the Subſtiler and hour-lines are diſtant from the Perpendicular line of the plane in all upright Planes, and in all Incliners, from the line croſſing the Horizontal at right angles, (which upon the matter is all one line).</p>
+               <p>Except the two Polar Declining Planes, whoſe hour-lines in the Tables take their ſeveral diſtances from the Subſtiler lines.</p>
+               <p>Laſtly, in the 10 leſſer Diagrams you have three whole circles, or rundles, in each whereof the greater (which repreſent's the Plane) is divided into 24 hour-lines by the Inſtrument, in which you have two ſcroles, whereof the outermoſt is the Diall for the face propoſed, and in the innermoſt ſcrole are conteined the hour-lines which are in uſe for the contrarie face; and the two leſſer circles or rundles are the Dialls for both faces of the propoſed planes, where<g ref="char:EOLhyphen"/>of, in all Inclining planes, the rundle <hi>N<hi rend="sup">o</hi> V</hi> is for the upper, and the rundle <hi>N<hi rend="sup">o</hi> L</hi> ſtand's for the lower face of any of them.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="18" facs="tcp:45665:12"/>
+            <head>Here followeth a particular Explanation of the ſeveral Diagrams following, <hi>viz.</hi>
+            </head>
+            <div type="section">
+               <head>Diagrams N<hi rend="sup">o</hi> A <hi>&amp;</hi> A.</head>
+               <p>BEeing the firſt example of an Upright Declining Plane, propo<g ref="char:EOLhyphen"/>ſed to decline 30:00″ Eaſterlie from South.</p>
+               <p>According to what hath been formerly taught I draw the line</p>
+               <list>
+                  <item>
+                     <hi>A z A</hi> for the Horizontal lines of this Plane.</item>
+                  <item>
+                     <hi>C z E</hi> for the Perpendicular lines of this Plane.</item>
+                  <item>
+                     <hi>C</hi> the Pole of the Plane becauſ a Southerlie face is propoſed.</item>
+                  <item>
+                     <hi>C L P E</hi> the proper Meridian of the Plane.</item>
+                  <item>
+                     <hi>L</hi> the point of this Meridian's cutting or croſſing the Plane.</item>
+                  <item>
+                     <hi>C L K</hi> the Subſtiler line of this Plane.</item>
+                  <item>
+                     <hi>A z A</hi> ſerv's for the occult line, beeing 90:00 from <hi>C</hi> or <hi>E.</hi>
+                  </item>
+                  <item>
+                     <hi>z L</hi> 21:00″ the Meridian's diſtance from <hi>z</hi> in the occult line.</item>
+                  <item>
+                     <hi>z h</hi> 69:00 the Pole of this proper Meridian at <hi>h.</hi>
+                  </item>
+                  <item>
+                     <hi>n o</hi> in the limb, beeing the meaſure of the arch of this proper Me<g ref="char:EOLhyphen"/>ridian, betwixt <hi>P</hi> and <hi>L</hi> is 32:40″.</item>
+               </list>
+               <p>The Pole's height above this Plane 32:40″.</p>
+               <p>The hour-lines which are in uſe for the Northerlie face of this Plane, are four in the morn, and all the hour-lines from 3 to 8 (both included).</p>
+               <p>And for the Southern face thereof, all the hour-lines from 5 in the morn to 4 afternoon, both included.</p>
+               <p>Here in this Diagram <hi>n<hi rend="sup">o</hi> A,</hi> becauſ the South-eaſterly face of the Plane is the face propoſed to make a Diall for, therefore the hour<g ref="char:EOLhyphen"/>lines and ſubſtiler, as they are drawn in the ſemicircle of the Inſtru<g ref="char:EOLhyphen"/>ment <hi>A E A</hi> ſhall bee the perfect Diall, (without alteration) to bee transferred upon the Southern face thereof, which may eaſily bee don by making a Table out of the limb of the Inſtrument of the ſeveral diſtances of the hour-lines and ſubſtiler from the Perpendi<g ref="char:EOLhyphen"/>cular line of the Plane. Thus you ſhall finde</p>
+               <p>
+                  <pb n="19" facs="tcp:45665:12"/>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—5:75:00″—11:10:30″</item>
+                     <item>The hour of—6:57:20″—12 Perpendicular</item>
+                     <item>The hour of—7:45:00″—1:13:20″</item>
+                     <item>The hour of—8:34:00″—2:29:45</item>
+                     <item>The hour of—9:26:00″—3:52:30″</item>
+                     <item>The hour of—Subſtiler line—22:20″—4:79:40″</item>
+                     <item>The hour of—10:18:00″</item>
+                  </list>
+               </p>
+               <p>Now if you would know how to ſet off the hour-lines which are in uſe for the North-weſterly face, which is the back or contrarie face to the propoſed upon that face of your Plane, which hour lines really by the Inſtrument you have not.</p>
+               <p>Sweep a circle as I have don in the leſſer Diagram of this <hi>n<hi rend="sup">o</hi> A, viz. A B A E,</hi> and ſet therein by help of the Table above, all the hour-lines from 5 in morn, to 4 afternoon, both included; in the lower ſemicircle <hi>A E A</hi> juſt as they lie in the Inſtrument, which will bee the perfect Diall for the South-eaſterlie face propoſed.</p>
+               <p>Now if you continue theſe 12 hour-lines through the center to their oppoſite quadrants in the upper ſemicircle <hi>A B A,</hi> you ſhall di<g ref="char:EOLhyphen"/>vide the whole circle into 24 hours, that ſo you may take thereout the hour-lines which are in uſe for the Northweſterlie face. As I have don and diſtinguiſhed by the two Scroles; whereof the greater or outermoſt Scrole is the Diall for the face propoſed, and in the leſſer Scrole are the hour-lines for the contrarie face of the ſame Plane.</p>
+               <p>And when you pleaſ to transfer theſe hour lines in the leſſer ſcrole which are for the contrarie face, upon that face of your Plane, you muſt place them contrarie to what they are in the leſſer ſcrole, becauſ they are the hour-lines for the contrarie face to the propoſed, as I have don in the little rundle <hi>n<hi rend="sup">o</hi>
+                  </hi> 2, beeing the perfect Diall for the Northweſterlie, or contrarie face, as the little rundle <hi>n<hi rend="sup">o</hi>
+                  </hi> 1 is the Diall for the propoſed.</p>
+               <p>The better to conceiv a reaſon hereof, imagin the two little rundles <hi>n<hi rend="sup">o</hi>
+                  </hi> 1 <hi>n<hi rend="sup">o</hi>
+                  </hi> 2 were both cut out of the Paper, and their backſides clapt together, their Horizontal and Perpendicular lines agreeing aright, and center oppoſite to center, then you will plainly perceive, that the
+<pb n="20" facs="tcp:45665:13"/>
+Subſtiler line <hi>K z m</hi> in the rundle number 2 will bee one line with the Subſtiler line <hi>L z n</hi> in the rundle <hi>n<hi rend="sup">o</hi>
+                  </hi> 1.</p>
+               <p>As alſo the hour-lines will meet, and make one line with each hour-line of its oppoſite quadrant, and this is general for all Planes whatſoever.</p>
+            </div>
+            <div type="section">
+               <head>An explanation of the Diagrams N<hi rend="sup">o</hi> B &amp; B.</head>
+               <p>THe ſecond example of an Upright Declining Plane propoſed to decline 63, 0″0 Weſterly from South.</p>
+               <p>Here you have</p>
+               <list>
+                  <item>
+                     <hi>A z A,</hi> the Horizontal lines of this Plane.</item>
+                  <item>
+                     <hi>B z B</hi> the perpendiculer lines of this Plane.</item>
+                  <item>
+                     <hi>C,</hi> the place of the Pole, becauſ the Southweſterly face is propoſed, beeing in the Southweſt quarter.</item>
+                  <item>
+                     <hi>C L P E,</hi> the proper Meridian of the Plane.</item>
+                  <item>
+                     <hi>L,</hi> the point of this Meridians croſſing, or cutting the Plane.</item>
+                  <item>
+                     <hi>C, L, K,</hi> the ſubtiler line.</item>
+                  <item>
+                     <hi>A z A,</hi> ſervs for the occult line, beeing 90, 0″0, from <hi>C,</hi> or <hi>E.</hi>
+                  </item>
+                  <item>
+                     <hi>z L,</hi> 36, 0″0, the Meridian diſtance from <hi>z</hi> in the occult line.</item>
+                  <item>
+                     <hi>z h,</hi> 54, 00 the Pole of this proper Meridian at <hi>h.</hi>
+                  </item>
+                  <item>
+                     <hi>n, o,</hi> in the limbe, beeing the meaſure of the arch of this proper Me<g ref="char:EOLhyphen"/>ridian, betwixt <hi>P &amp; L,</hi> is 16. 30″,</item>
+                  <item>The Poles height above this Plane 16. 30″.</item>
+               </list>
+               <p>The hour-lines in uſe for the Southweſterly face, are from a little paſt 10, or indeed from 11 to 8 (both included) becauſ 11, is the firſt perfect, or real hour-line. And for the Northeaſterly or con<g ref="char:EOLhyphen"/>trarie face, all the hour-lines from 4 in the morn, to 11 before noon, both included.</p>
+               <p>Here you have the hour-line of 9 at night given you by the Inſtru<g ref="char:EOLhyphen"/>ment for one of the 12 which for this Southweſterly face is uſeleſs, in reſpect the Sun continues not ſo long above our Horizon, yet it muſt not bee left out of either the Table, or greater rundle of the leſſer Diagram <hi>n<hi rend="sup">o</hi> B,</hi> becauſ without it you cannot divide the whole rundle (which repreſents the Plane) into 24 hours, which beeing don, you will bee enabled thereby to take thereout, ſuch hour-lines
+<pb n="21" facs="tcp:45665:13"/>
+as are in uſe for the Northeaſterly or contrarie face; as the leſſer ſcrole in the leſſer Diagram <hi>n<hi rend="sup">o</hi> B</hi> ſhews, but they are to bee placed contrarie to what they are in the leſſer ſcrole, as the little rundle, for the Northeaſterly face ſhews, by the reaſon formerly given.</p>
+               <p>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—10:83:00″—35:40″ Subſtiler.</item>
+                     <item>The hour of—11:33:30″—5:38:00″</item>
+                     <item>The hour of—Perpendicular 12:00; 00″—6:41:45</item>
+                     <item>The hour of—1:15:15—7:47:30″</item>
+                     <item>The hour of—2:23:00″—8:55:20″</item>
+                     <item>The hour of—3:29:00″—9:69:00″</item>
+                     <item>The hour of—4:33:30″—</item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <head>An Explanation of the Diagrams N<hi rend="sup">o</hi> C &amp; C.</head>
+               <p>THe third example of an Upright Declining Plane propoſed to decline 63:00″ Eaſterlie from North.</p>
+               <p>Here you have</p>
+               <list>
+                  <item>
+                     <hi>A z A</hi> the Horizontal lines of this Plane.</item>
+                  <item>
+                     <hi>B z B</hi> the Perpendicular lines of this Plane.</item>
+                  <item>
+                     <hi>C</hi> the Pole of the Plane in the North-eaſt quarter of the Inſtru<g ref="char:EOLhyphen"/>ment, becauſe the Northeaſt face is ſet for principal.</item>
+                  <item>
+                     <hi>C L P E</hi> the proper meridian of this Plane.</item>
+                  <item>
+                     <hi>L</hi> the point of this Meridian's croſſing the Plane.</item>
+                  <item>
+                     <hi>C L K</hi> the Subſtiler line.</item>
+                  <item>
+                     <hi>A z A</hi> ſerv's for the occult line 90:00″ from <hi>C</hi> or <hi>E.</hi>
+                  </item>
+                  <item>
+                     <hi>z L</hi> 36:00″ the Meridian's diſtance from <hi>z</hi> in the occult line.</item>
+                  <item>
+                     <hi>z h:</hi> 54, 00″ the Pole of this proper Meridian at <hi>h.</hi>
+                  </item>
+                  <item>
+                     <hi>n o</hi> in the limb, beeing the meaſure of the Arch of this proper Meridian, betwixt <hi>P</hi> and <hi>L</hi> is 16:30″.</item>
+                  <item>The Pole's height above this Plane—16:30″.</item>
+               </list>
+               <p>The hour-lines in uſe for the North-eaſterly face, are from 4 in the morn, to 11 before noon (both included); and for the South<g ref="char:EOLhyphen"/>weſterly,
+<pb n="22" facs="tcp:45665:14"/>
+or contrarie face; all the hour-lines from a little after 10, or indeed from 11 to 8 (both included) becauſ the hour-line of 11 is the firſt real or perfect hour-line.</p>
+               <p>Note that theſe two Planes <hi>n<hi rend="sup">o</hi> B</hi> &amp; <hi>n<hi rend="sup">o</hi> C</hi> are both one and the ſame Plane, onely here is all the difference, that in the Diagram <hi>n<hi rend="sup">o</hi> B</hi> the South-weſterly face is propoſed for principal; and in the Di<g ref="char:EOLhyphen"/>agram <hi>n<hi rend="sup">o</hi> C</hi> the North-eaſterly face is ſet for principal, as by the Poles of each face doth appear; by which you may plainly perceiv, that what face ſoever of any Plane is ſet for principal, the hour-lines and Subſtiler thereof, beeing taken out of the Inſtrument juſt as they lie therein, ſhall bee the perfect diall, without any alteration for the face propoſed; but the hour-lines for the contrarie face muſt bee con<g ref="char:EOLhyphen"/>trarily plac'd, &amp;c.</p>
+               <p>All which doth moſt plainly appear in the two leſſer Diagrams, <hi>n<hi rend="sup">o</hi> B n<hi rend="sup">o</hi> C.</hi>
+               </p>
+               <p>Furthermore, becauſ theſe two Planes have the ſame Declination, therefore at one working you have the hour-lines, Subſtilers and and Poles height for both, as by the Tables and hour-lines in uſe for each do appear, all agreeing in every reſpect the one with the other.</p>
+               <p>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—10:83:00″—:35:40″ Subſtiler.</item>
+                     <item>The hour of—11:33:30″—5:38:00″</item>
+                     <item>The hour of—Perpendicular 12. 00:00″—6:41:45</item>
+                     <item>The hour of—1:15:15—7:47:30″</item>
+                     <item>The hour of—2:23:00″—8:55:20″</item>
+                     <item>The hour of—3:29:00″—9:69:00″</item>
+                     <item>The hour of—4:33:30″—</item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="23" facs="tcp:45665:14"/>
+               <head>An explanation of the Diagrams N<hi rend="sup">o</hi> D &amp; D.</head>
+               <p>THe firſt example of a Declining Inclining Plane, falling be<g ref="char:EOLhyphen"/>twixt the Pole and Horizon:</p>
+               <p>Propoſed to Decline 24:20″ Weſterlie from the South.</p>
+               <p>Propoſed to Incline 36:00″ Northerlie.</p>
+               <p>Here you have likewiſe</p>
+               <p>
+                  <hi>A z A</hi> the Horizontal line of the Plane.</p>
+               <p>
+                  <hi>B z B</hi> the line croſſing the Horizontal at right angles.</p>
+               <p>
+                  <hi>z T</hi> 54:00″ from <hi>z</hi> beeing the complement of Inclination.</p>
+               <p>
+                  <hi>A T A</hi> the Declining Inclining Plane propoſed.</p>
+               <p>
+                  <hi>z m</hi> 36:00″ from <hi>z</hi> beeing the place of the Pole of the Plane at <hi>m.</hi>
+               </p>
+               <p>
+                  <hi>q m i L q</hi> the proper Meridian of the Plane, beeing in this Diagram the ſame with the hour-circle of one.</p>
+               <p>
+                  <hi>D z D</hi> the occult line 90:00″ from either <hi>q</hi> in the limb.</p>
+               <p>
+                  <hi>z i</hi> 9:00″ the Meridian's diſtance from <hi>z</hi> in the occult line.</p>
+               <p>
+                  <hi>z h</hi> 81:00″ from <hi>z</hi> the Place of the Pole of this Meridian at <hi>h.</hi>
+               </p>
+               <p>
+                  <hi>L</hi> the point of this Meridian's croſſing the Plane.</p>
+               <p>
+                  <hi>m L K</hi> the Subſtiler line, and hour-line of one alſo.</p>
+               <p>
+                  <hi>n o</hi> in the limb, beeing the meaſure of the arch of this proper Me<g ref="char:EOLhyphen"/>ridian betwixt <hi>P</hi> and <hi>L</hi> is 17:00″.</p>
+               <p>The North-pole's height above the upper or South-weſterlie face is 17:00″, ſo much alſo muſt the South-pole bee elevated above the lower or North-eaſterlie face, as by the ſituation of the Plane in the Diagram doth appear.</p>
+               <p>The hour-lines in uſe for the upper face are from 7 in the morn, to 7 in the evening (both included).</p>
+               <p>And for the lower face from 4 in the morn to 7 before noon (both included) and onely 8 at evening, when the Sun is in the Summer Tropique.</p>
+               <p>
+                  <pb n="24" facs="tcp:45665:15"/>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—8:63:00″—2:10:40″</item>
+                     <item>The hour of—9:42:20″—3:5:30″</item>
+                     <item>The hour of—10:32:00″—Perpendicular</item>
+                     <item>The hour of—11:25:00″—4:1:40″</item>
+                     <item>The hour of—12:20:00″—5:12:40″</item>
+                     <item>The hour of—Subſtiler —1:15:40—6:33:50″</item>
+                     <item>———7:75:30″</item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <head>An explanation of the Diagrams N<hi rend="sup">o</hi> E &amp; E.</head>
+               <p>THe ſecond Example of a Declining Inclining Plane falling to the Southwards of the Zenith.</p>
+               <p>Propoſed to Decline 45:00″ Weſterly from South.</p>
+               <p>Propoſed to Incline 38:30″ Southerlie.</p>
+               <p>Here you have</p>
+               <p>
+                  <hi>A z A</hi> the Horizontal line of this Plane.</p>
+               <p>
+                  <hi>B z B</hi> the line croſſing the Horizontal at right angles.</p>
+               <p>
+                  <hi>z T</hi> 51:30″ from <hi>z,</hi> beeing the complement of Inclination.</p>
+               <p>
+                  <hi>A T A</hi> the Declining Inclining Plane propoſed.</p>
+               <p>
+                  <hi>z m</hi> 38:30″ from <hi>z,</hi> beeing the place of the Pole of the Plane at <hi>m.</hi>
+               </p>
+               <p>
+                  <hi>q m i L q</hi> the proper Meridian of this Plane.</p>
+               <p>
+                  <hi>D z D</hi> the occult line 90:00″ from either <hi>q</hi> in the limb.</p>
+               <p>
+                  <hi>z i</hi> 36:00″ the Meridian's diſtance from <hi>z</hi> in the occult line.</p>
+               <p>
+                  <hi>z h</hi> 54:00″ from <hi>z</hi> the Plane of the Pole of this Meridian at <hi>h.</hi>
+               </p>
+               <p>
+                  <hi>L</hi> the point of this Meridian's croſſing the Plane.</p>
+               <p>
+                  <hi>m L K</hi> the Subſtiler line.</p>
+               <p>
+                  <hi>n o</hi> in the limb, beeing the meaſure of the arch of this proper Me<g ref="char:EOLhyphen"/>ridian betwixt <hi>P</hi> and <hi>L</hi> is 62:40″.</p>
+               <p>The North-Pole's height above the upper face 62:40″.</p>
+               <p>Here in this Diagram <hi>n<hi rend="sup">o</hi> E,</hi> when the Sun is in the Summer Tro<g ref="char:EOLhyphen"/>pique, it will begin to appear upon the upper, or Northweſterlie face of this Plane, juſt at 7 in the morn, but I have made the hour-lines in uſe for this upper face, from 8 in the morn, to 8 at evening (both included)
+<pb n="25" facs="tcp:45665:15"/>
+becauſ the hour-line of 8 in the morn is the firſt reall or perfect hour-line.</p>
+               <p>And the hour-lines in uſe for the lower or South-eaſterlie face are from 4 in the morn, when the Sun is in the Summer Tropique to the point <hi>f</hi> in the Winter Tropique, which is about half an hour paſt 2, therefore from 4 to 2, (both included).</p>
+               <p>Here, as I have formerly ſaid, (although in this Diagram) the North-weſt face is the face propoſed and ſet down, as the Pole of its Plane at <hi>m,</hi> in the North-weſt quarter of the Inſtrument plainly ſhew's, yet the hour-lines in and by the Inſtrument are all drawn for the South-eaſt, or lower face, as the leſſer ſcrole in the leſſer Diagram <hi>n<hi rend="sup">o</hi> E</hi> ſhew's, beeing the ſame with the hour<g ref="char:EOLhyphen"/>lines and Subſtiler in the Inſtrument, <hi>viz.</hi> from 4 in the morn, to 3 afternoon:Now if by theſe you divide your plane into 24 hours, all the hour-lines which ſhall bee in uſe for the upper face, <hi>viz.</hi> from 8 in the morn to 8 in the evening (both included) ſhall bee the per<g ref="char:EOLhyphen"/>fect dial for this upper face, becauſ it is the face ſet in the Inſtru<g ref="char:EOLhyphen"/>ment for principal, as the greater ſcrole and little rundle <hi>n<hi rend="sup">o</hi> V</hi> ſhew's, beeing all one.</p>
+               <p>But the hour-lines which are in uſe for the lower face, from 4 to 2, muſt bee contrarily plac'd, &amp;c. as the little rundle <hi>n<hi rend="sup">o</hi> L</hi> ſhew's, and this is general for all Southerlie Incliners whatſoever.</p>
+               <p>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—4:83:00″—Perpendicular,</item>
+                     <item>The hour of—Subſtiler line—72:40″—10:4:30″</item>
+                     <item>The hour of—5:69:30″—11:21:00</item>
+                     <item>The hour of—6:56:00″—12:38:00</item>
+                     <item>The hour of—7:42:00″—1:54:00″</item>
+                     <item>The hour of—8:27:40″—2:69:30″</item>
+                     <item>The hour of—9:12:00″—3:83:30″</item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="26" facs="tcp:45665:16"/>
+               <head>An explanation of the Diagrams N<hi rend="sup">o</hi> F &amp; F.</head>
+               <p>THe third Example of a Declining Inclining Plane, falling be<g ref="char:EOLhyphen"/>twixt the Pole and Zenith.</p>
+               <p>Propoſed to Decline 24:20″ Weſterlie from South.</p>
+               <p>Propoſed to Incline 75:00″ Northerlie.</p>
+               <p>Here you have</p>
+               <p>
+                  <hi>A z A</hi> the Horizontal line of the Plane.</p>
+               <p>
+                  <hi>B z B</hi> the line croſſing the Horizontal at right angles.</p>
+               <p>
+                  <hi>z T</hi> 15:00″ beeing the complement of Inclination.</p>
+               <p>
+                  <hi>A T A</hi> the Declining Inclining Plane propoſed.</p>
+               <p>
+                  <hi>z m</hi> 75:00″ from <hi>z,</hi> beeing the place of the Pole of the Plane at <hi>m.</hi>
+               </p>
+               <p>
+                  <hi>q m i L q</hi> the proper Meridian of the Plane.</p>
+               <p>
+                  <hi>D z D</hi> the occult line 90:00″ from either <hi>q</hi> in the limb.</p>
+               <p>
+                  <hi>z i</hi> 15:00″ the Meridians's diſtance from <hi>z.</hi>
+               </p>
+               <p>
+                  <hi>z h</hi> 75:00″ from <hi>z</hi> the place of the Pole of this Meridian at <hi>h.</hi>
+               </p>
+               <p>
+                  <hi>L</hi> the point of this Meridian's croſſing the Plane.</p>
+               <p>
+                  <hi>m L K</hi> the Subſtiler line.</p>
+               <p>
+                  <hi>n o</hi> in the limb, beeing the meaſure of the arch of the proper Me<g ref="char:EOLhyphen"/>ridian, betwixt <hi>P</hi> and <hi>L</hi> is—20 00″.</p>
+               <p>The North Pole's height above the lower or Northeaſterlie face 20:00″; therefore the South Pole muſt bee elevated ſo much above the upper or South-weſterlie face thereof.</p>
+               <p>The hour-lines in uſe for the upper face, are from 8 in the morn to 7 in the evening (both included).</p>
+               <p>And for the lower face, from 4 in the morn to 8 afore noon (both included) and onely 8 in the evening, when the Sun is in the Sum<g ref="char:EOLhyphen"/>mer Tropique.</p>
+               <p>
+                  <pb n="27" facs="tcp:45665:16"/>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—8:60:00″—16:20 Subſtiler.</item>
+                     <item>The hour of—9:27:00″—2:17:30″</item>
+                     <item>The hour of—10:10:20″—3:22:30″.</item>
+                     <item>The hour of—Perpendicular—4:29:40″.</item>
+                     <item>The hour of—11:00:40″—5:38:20″</item>
+                     <item>The hour of—12:07:00″—6:52:30″.</item>
+                     <item>The hour of—1:12:30″—7:79:30″.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <head>An explanation of the Diagrams N<hi rend="sup">o</hi> G &amp; G.</head>
+               <p>THe fourth example of a Declining Inclining Plane, falling near unto the Winter Tropique.</p>
+               <p>Propoſed to Decline 24:20″ Eaſterlie from North.</p>
+               <p>Propoſed to Incline 14:20″ Southerlie.</p>
+               <p>Here you have</p>
+               <p>
+                  <hi>A z A</hi> the Horizontal line of the Plane.</p>
+               <p>
+                  <hi>B z B</hi> the line croſſing the Horizontal at right angles.</p>
+               <p>
+                  <hi>z T</hi> 75:40″ from <hi>z,</hi> beeing the complement of Inclination.</p>
+               <p>
+                  <hi>A T A</hi> the Declining Inclining Plane propoſed:—</p>
+               <p>
+                  <hi>z m</hi> 14:20 from <hi>z,</hi> beeing the place of the Pole of the Plane at <hi>m.</hi>
+               </p>
+               <p>
+                  <hi>q m i L q</hi> the proper Meridian of the Plane.</p>
+               <p>
+                  <hi>D z D</hi> the occult line 90:00″ from either <hi>q</hi> in the limb.</p>
+               <p>
+                  <hi>zi</hi> 8:00″ beeing the Meridian's diſtance from <hi>z.</hi>
+               </p>
+               <p>
+                  <hi>z h</hi> 82:00″ from <hi>z,</hi> beeing the place of the Pole of this Meridian at <hi>h.</hi>
+               </p>
+               <p>
+                  <hi>L</hi> the point of the Meridian's croſſing the Plane.</p>
+               <p>
+                  <hi>m L K</hi> the Subſtiler line.</p>
+               <p>
+                  <hi>n o</hi> in the limb, beeing the meaſure of the arch of this proper Me<g ref="char:EOLhyphen"/>ridian, betwixt <hi>P</hi> and <hi>L</hi> is 116:00″ Southerlie, from <hi>P</hi> to the edg of the Plane at <hi>L.</hi>
+               </p>
+               <p>Here you muſt remember what was ſaid at firſt, that every Plane cut's or divide's the globe of the Univerſ into two equal halvs, which conſidered, if you take 116 the diſtance of the North-pole
+<pb n="28" facs="tcp:45665:17"/>
+from the Southern edg of the Plane at <hi>L</hi> out of 180:00″ the ſemi<g ref="char:EOLhyphen"/>circle, there will remain 64:00″ for the elevation of the ſame Pole above the Northern edg of the ſame face, beeing the upper face of the Plane. North-pole's height above the upper face 64:00″.</p>
+               <p>Now the ſituation of this Plane in the inſtrument you ſee, that all the while the Sun hath above 15:00″ North Declination, it ſhine's upon the upper face of this Plane, from its riſing to its ſetting (when the daies are at longeſt with us) for you ſee the parallel of 10:00″ North Declination, croſſeth the Plane but a very ſmall time be<g ref="char:EOLhyphen"/>fore the Sun ſetting, when it is therein.</p>
+               <p>So that for the upper or North-eaſterlie face you muſt have all the hour-lines from 4 in the morn to 8 at evening (both included).</p>
+               <p>And for the lower or South-weſterlie face, firſt 8 and 9 in the morn, and then from 2 to 7 in the evening, which hour-lines will bee of very ſmall uſe, becauſ the Plane incline's ſo much Souther<g ref="char:EOLhyphen"/>ly.</p>
+               <p>Note likewiſe, that this Plane is a Southerlie Declining Inclining Plane, as the Plane in the Diagram <hi>n<hi rend="sup">o</hi> E</hi> is, therefore the ſame me<g ref="char:EOLhyphen"/>thod is to bee obſerved, as is there taught, which is alſo moſt plain<g ref="char:EOLhyphen"/>ly demonſtrated in the leſſer Diagram of this number <hi>G.</hi>
+               </p>
+               <p>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—8:79:10″—Perpendicular.</item>
+                     <item>The hour of—9:64:30″—2:4:40″</item>
+                     <item>The hour of—10:50:30—3:20:00″</item>
+                     <item>The hour of—11:37:20″—4:35:40″</item>
+                     <item>The hour of—Subſtiler—34:20″—5:52:00″</item>
+                     <item>The hour of—12:24:00″—6:69:00″</item>
+                     <item>The hour of—1:9:30″—7:85:10″</item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="29" facs="tcp:45665:17"/>
+               <head>An explanation of the Diagrams N<hi rend="sup">o</hi> H &amp; H.</head>
+               <p>BEeing an example of a Meridian Inclining Plane, propoſed to Incline 53:00″ Weſterlie.</p>
+               <p>I have ſaid before, that for all Planes of this nature, the Meridian line, or North and South line in the Inſtrument <hi>N z S</hi> muſt bee one and the ſame line with, and ſerv for the Horizontal line of the Plane; And therefore the Prime Vertical, or Eaſt and Weſt line in the In<g ref="char:EOLhyphen"/>ſtrument <hi>W z E</hi> ſtand's for the line which muſt croſs the Horizontal line of the Plane at right angles:The reſt of the work differ's no<g ref="char:EOLhyphen"/>thing from the former Declining Inclining Planes.</p>
+               <p>So that here the Meridian</p>
+               <p>
+                  <hi>N z S</hi> is the Horizontal line of this Plane.</p>
+               <p>
+                  <hi>W z E</hi> ſtand's for the line croſſing the Horizontal at right angles.</p>
+               <p>
+                  <hi>z T</hi> 37:00″ from <hi>z,</hi> beeing the complement of Inclination.</p>
+               <p>
+                  <hi>N T S</hi> the Meridian Inclining Plane propoſed.</p>
+               <p>
+                  <hi>z m</hi> 53:00″ from <hi>z,</hi> beeing the place of the Pole of this Plane at <hi>m.</hi>
+               </p>
+               <p>
+                  <hi>q m i L q</hi> the proper Meridian of this Plane.</p>
+               <p>
+                  <hi>D z D</hi> the occult line 90:00″ from either <hi>q</hi> in the limb.</p>
+               <p>
+                  <hi>z i</hi> 35:00″ this Meridian's diſtance from <hi>z</hi> in the occult line.</p>
+               <p>
+                  <hi>z h</hi> 55:00″ from <hi>z</hi> the place of the Pole of this Meridian at <hi>h.</hi>
+               </p>
+               <p>
+                  <hi>L</hi> the point of this Meridian's croſſing the Plane.</p>
+               <p>
+                  <hi>m L K</hi> the Subſtiler line.</p>
+               <p>
+                  <hi>n o</hi> in the limb, beeing the meaſure of the arch of this proper Me<g ref="char:EOLhyphen"/>ridian betwixt <hi>P</hi> and <hi>L</hi> is 28:30″.</p>
+               <p>The North-pole's height above the upper face 28:30″.</p>
+               <p>The hour-lines in uſe for the Eaſtern or upper face, are from 4 in the morn to 2 afternoon (both included).</p>
+               <p>And for the Weſtern or lower face, all the hour-lines from 1 to 8 in the evening (both included).</p>
+               <p>
+                  <pb n="30" facs="tcp:45665:18"/>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The hour of—12:90:00″—6:32:40″</item>
+                     <item>The hour of—9:65:00″—7:40:00″</item>
+                     <item>The hour of—2:34:45—:44:30″ Subſtiler</item>
+                     <item>The hour of—3:7:50″—8:47:20″</item>
+                     <item>The hour of—Perpendicular.—00:00″—9:54:20″</item>
+                     <item>The hour of—4:10:45—10:63:00″</item>
+                     <item>The hour of—5:23:20″—11:74:15</item>
+                     <item>If the Plane ſhall incline Eaſterlie as this doth Weſterlie, the ſame order in working is to bee obſerved in every reſpect.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <head>An Explanation of the Diagrams N<hi rend="sup">o</hi> I &amp; I.</head>
+               <p>THe firſt example of a Polar Declining Plane,</p>
+               <p>Propoſed to Decline 52:00″ Weſterlie from South.</p>
+               <p>Propoſed to Incline 64:00″ Northerlie.</p>
+               <p>In theſe Polar declining Planes, you are to finde out by the In<g ref="char:EOLhyphen"/>ſtrument two things in chief, and then the reſt of the work will dif<g ref="char:EOLhyphen"/>fer nothing from the making of an ordinarie Meridian, or direct Polar Diall.</p>
+               <p>The firſt is the Arch betwixt the Subſtiler and the Horizontal line of the Plane in degrees and minutes.</p>
+               <p>The ſecond is the Inclination or diſtance betwixt the proper Me<g ref="char:EOLhyphen"/>ridian of the Plane, and the Meridian of the place; both which will bee eaſily given you by the Inſtrument.</p>
+               <p>Thus I ſet down upon the Inſtrument according to the Declinati<g ref="char:EOLhyphen"/>on and Inclination propoſed.</p>
+               <list>
+                  <item>
+                     <hi>A z A</hi> the Horizontal line of the Plane.</item>
+                  <item>
+                     <hi>B z B</hi> the line croſſing the Horizontal at right angles.</item>
+                  <item>
+                     <hi>z T</hi> 26:00″ from <hi>z,</hi> beeing the complement of Inclination.</item>
+                  <item>
+                     <hi>A P T A</hi> is the Plane propoſed, which in this Diagram fall's to bee
+<pb n="31" facs="tcp:45665:18"/>
+the ſame with the Meridian or hour-cirlce of 9, cutting or croſſing the Pole of the Inſtrument <hi>P;</hi> and therefore muſt bee a Polar Plane, and neither Pole elevated above either face.</item>
+                  <item>
+                     <hi>z m</hi> 64:00″ from <hi>z,</hi> beeing the place of the Pole of this Plane at <hi>m,</hi> which fall's juſt upon the hour-circle of three in the afternoon, and therefore the Subſtiler, and hour-line of 3 muſt bee one and the ſame line, and ſerv for both; as formerly in the Diagram <hi>n<hi rend="sup">o</hi> D</hi> was de<g ref="char:EOLhyphen"/>monſtrated.</item>
+                  <item>
+                     <hi>q P m q</hi> the proper Meridian of this Plane.</item>
+               </list>
+               <p>Now (as in every of the former Diagrams) if from the Pole of the Plane <hi>m,</hi> through the point of this Meridian's croſſing the Plane, which is at <hi>P</hi> the Pole of the Inſtrument, you draw a right line to the limb, it muſt bee the Subſtiler line, and hour line of three alſo, which is repreſented by the line <hi>m P K,</hi> whoſe Horizontal Arch be<g ref="char:EOLhyphen"/>twixt <hi>A</hi> and <hi>K</hi> in the limb, is 61:00″ which is the firſt thing requi<g ref="char:EOLhyphen"/>red.</p>
+               <p>The next is to obſerv where the Pole of your Plane fall's to bee either upon an hour-circle (as here it doth) or betwixt any two, for the diſtance thereof from the Meridian of the Plane (which in the Inſtrument is ♣ <hi>z S</hi>) beeing taken and converted into degrees and minutes, ſhall give the Inclination or diſtance betwixt the pro<g ref="char:EOLhyphen"/>per Meridian of the Plane, and the Meridian of the place, which is here repreſented by the Arch of the Equator ♈ <hi>m</hi> in the South-weſt quarter of the Inſtrument, and therefore 3 hours of time, or 45:00″ from the North and South line in the Inſtrument, which is the Me<g ref="char:EOLhyphen"/>ridian of the place; And this is the ſecond thing required.</p>
+               <p>
+                  <hi>A K</hi> 61:The Horizontal Arch.</p>
+               <p>♈ <hi>m</hi> 45:00″ Inclination or diſtance betwixt the two Meridians.</p>
+               <p>Here the South-weſt face of this Plane is propoſed for principal or upperface.</p>
+               <p>The hour-lines in uſe for which face, are from 10 before noon, to 8 in the evening (both included).</p>
+               <p>And for the lower face from 4 in the morn, to 8 aforenoon (both included).</p>
+               <p>Now to take the Table out of the Inſtrument, obſerv the place of the Pole of your Plane (which in theſe planes will alwaies fall up<g ref="char:EOLhyphen"/>on the Equator) obſerv I ſaie, the place of the Pole of your Plane,
+<pb n="32" facs="tcp:45665:19"/>
+amongſt the Meridians or hourcircles, which juſtly reckoned either waie to the next hour-circles one by one, by allowing 14:00″ of the Equator for every hour of time, (and ſo proportionably for any part of an hour, if the Pole fall betwixt two meridian or hour<g ref="char:EOLhyphen"/>circles) you may make a Table thereby, to transfer your hour-lines upon your Plane, which muſt bee the ſeveral diſtances of the hour<g ref="char:EOLhyphen"/>lines from the Subſtiler line of the Plane.</p>
+               <p>
+                  <list>
+                     <head>The Table.</head>
+                     <item>The Subſtiler &amp; hour of—3:00″:00″</item>
+                     <item>The Subſtiler &amp; hour of—4 &amp; 2:15:00″</item>
+                     <item>The Subſtiler &amp; hour of—5 &amp; 1:30:00″</item>
+                     <item>The Subſtiler &amp; hour of—6 &amp; 12:45:00″</item>
+                     <item>The Subſtiler &amp; hour of—7 &amp; 11:60:00″</item>
+                     <item>The Subſtiler &amp; hour of—8 &amp; 10:75:00″</item>
+                  </list>
+               </p>
+               <p>Now for delineating your diall upon your Plane, (the Table bee<g ref="char:EOLhyphen"/>ing made) firſt, as in the leſſer Diagram of this number <hi>I,</hi> I draw the Horizontal line <hi>A A,</hi> next at anie convenient point therein, <hi>viz.</hi> at <hi>B;</hi> I ſweep the Arch <hi>C D.</hi> and finding out a chord of 61:00″ for the arch betwixt the Horizontal line and Subſtiler, I put it over from <hi>C</hi> to <hi>E,</hi> through which point <hi>E,</hi> I draw the Subſtiler line <hi>BHEF,</hi> which muſt be the hour-line of 3 alſo, to which all the reſt of the hour-lines muſt be parallel. Next at ſom convenient point in the Subſtiler line, <hi>viz.</hi> at <hi>H,</hi> I ſweep a ſemicircle, whoſe ſemidiameter <hi>H I,</hi> I proportion to bee the height of the Stile above the Plane; then through this point <hi>I,</hi> at right angles to the Subſtiler line, I draw the line <hi>G I G,</hi> &amp; another line parallel to this <hi>A H L,</hi> by which two parallel lines, you ſhall ſet down your hour-lines upon your Plane, by the Table and this Canon.</p>
+            </div>
+            <div type="section">
+               <head>The Canon.</head>
+               <p>As <hi>H I</hi> Radius to <hi>I K</hi> the Tangent of 75:00″, beeing the diſtance of the hour-lines of 8 &amp; 10 from the Subſtiler.</p>
+               <p>So is <hi>H I</hi> 50/100 of an inch to <hi>I K</hi> 1 87/100 of the ſame meaſure to bee ſet off from eitherſide the subſtiler, in the two parallel lines and ſo draw the lines through the Plane, as the line 8 <hi>K</hi> 8 ſhew's. And ſo for all the reſt the ſame method hold's.</p>
+            </div>
+            <div type="section">
+               <pb n="33" facs="tcp:45665:19"/>
+               <head>An explanation of the Diagrams K &amp; K.</head>
+               <p>THe ſecond Example of a Polar Declining Plane,</p>
+               <p>Propoſed to Decline 62:30″ Eaſterly from South.</p>
+               <p>Propoſed to Incline 70:00″ Northerly.</p>
+               <p>According to which propoſal I draw</p>
+               <p>
+                  <hi>A z A</hi> for the Horizontal line of the Plane.</p>
+               <p>
+                  <hi>B z B</hi> for the line croſſing the Horizontal at right angle.</p>
+               <p>
+                  <hi>z T</hi> 20:00″ from <hi>z,</hi> beeing the complement of Inclination.</p>
+               <p>
+                  <hi>A T P A</hi> is the Polar Declining Plane propoſed, becauſ it paſſeth through the Pole of the Inſtrument <hi>P.</hi>
+               </p>
+               <p>
+                  <hi>z m</hi> 70:00″ from <hi>z,</hi> the place of the Pole of this Plane at <hi>m.</hi>
+               </p>
+               <p>
+                  <hi>q P m q</hi> the proper Meridian of this Plane.</p>
+               <p>
+                  <hi>P</hi> the point of this Meridian's croſſing the Plane.</p>
+               <p>
+                  <hi>m P K</hi> the Subſtiler line, whoſe Horizontal Arch from <hi>A</hi> to <hi>K</hi> is 56:00″ in the limb of the Inſtrument.</p>
+               <p>The Inclination or diſtance betwixt the proper Meridian of the plane, and the Meridian of the place is the Arch of the Equator <hi>v m,</hi> beeing in time about three hours 48:00″ before noon, which is 12:00″ after 8 in the morn, or 57:00″ in meaſure, as the Pole of the plane at <hi>m</hi> ſhew's.</p>
+               <p>The Horizontal Arch 56:00″.</p>
+               <p>Diſtance betwixt the two Meridians 57:00″.</p>
+               <p>The hour-lines in uſe for the upper or Southeaſterlie face are, from 4 in the morn, to one after noon (and no more) except the plane bee very large. And for the lower face from 3 to 8 at evening (both included).</p>
+               <p>
+                  <pb n="34" facs="tcp:45665:20"/>
+                  <list>
+                     <head>The Table of the diſtances of the ſeveral hour-lines from the Subſtiler.</head>
+                     <item>The hour of—3:78:00″—Subſtiler line.</item>
+                     <item>The hour of—4:63:00″—9:12:00″</item>
+                     <item>The hour of—5:48:00″—10:27:00″</item>
+                     <item>The hour of—6:33:00″—11:42:00″</item>
+                     <item>The hour of—7:18:00″—12:57:00″</item>
+                     <item>The hour of—8:03:00″—1:72:00″</item>
+                     <item>—2:87:00″</item>
+                  </list>
+               </p>
+               <p>Thus the Table beeing made, the delineation or drawing of your lines upon the Plane, differ nothing from that of the former Dia<g ref="char:EOLhyphen"/>gram.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <p>If any ſhall deſire to have this Inſtrument ready printed off in paper for his uſe or practice, hee may bee furniſhed with what quantitie hee deſire's by <hi>William Hope</hi> Book-ſeller at the Blew Anchor on the backſide the Ex<g ref="char:EOLhyphen"/>change, <hi>London.</hi>
+            </p>
+            <p>If in braſs, hee may have this or any other for the Mathematical practice, made by <hi>Walter Hayes,</hi> at the Croſs-Daggers in <hi>Moor-fields, near</hi> Bethlem-gate.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>In the Epiſtle line 20, read <hi>circles</hi> for <hi>rules.</hi> Page 9, line 13, for <hi>thoſe</hi> read <hi>theſe.</hi> Pag. 24, line 13, for <hi>plane</hi> read <hi>place.</hi> Page 28, line 5, for <hi>now, the</hi> read <hi>now by the.</hi> Page 32, line 2, for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>:00″ read 15:00″.</p>
+            <pb facs="tcp:45665:20"/>
+         </div>
+      </back>
+   </text>
+</TEI>
